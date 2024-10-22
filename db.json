@@ -90,6 +90,13 @@
       "url": "https://www.youtube.com/embed/viRW15_qUZw",
       "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 13
+    },
+    {
+      "id": "c0b5",
+      "titulo": "Conhecendo o NestJS",
+      "descricao": "2 mil vizualizações",
+      "url": "https://www.youtube.com/embed/YHpG6t91oW8",
+      "imagem": "https://preview.redd.it/youtube-avatar-advice-v0-nzyfuumjlkjb1.png?width=1080&crop=smart&auto=webp&s=0969635d476e7a8bfddb9dfd8221492d947e4bac"
     }
   ]
 }
