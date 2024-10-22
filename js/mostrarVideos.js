@@ -2,7 +2,7 @@ import { conectApi } from "./conectApi.js";
 
 const lista = document.querySelector('[data-lista]');
 
-function constroiCard(titulo, descricao, url, image) {
+function constroiCard(titulo, descricao, url, imagem) {
     const video = document.createElement('li');
     video.className = 'videos__item';
     video.innerHTML = `
@@ -11,7 +11,7 @@ function constroiCard(titulo, descricao, url, image) {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
             <div class="descricao-video">
-                <img src="${image}">
+                <img src="${imagem}">
                 <h3>${titulo}</h3>
                 <p>${descricao}</p>
             </div>
